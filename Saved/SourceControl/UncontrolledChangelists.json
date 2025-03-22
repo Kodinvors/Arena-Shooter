@@ -5,7 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Celti/Documents/Unreal Projects/Crosswhite_207/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Users/Celti/Documents/Unreal Projects/Crosswhite_207/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Celti/Documents/Unreal Projects/Crosswhite_207/Content/Map/TestLevel.umap",
+				"C:/Users/Celti/Documents/Unreal Projects/Crosswhite_207/Content/Player/AreaMode.uasset",
+				"C:/Users/Celti/Documents/Unreal Projects/Crosswhite_207/Content/Player/PlayerChar_BP.uasset",
+				"C:/Users/Celti/Documents/Unreal Projects/Crosswhite_207/Content/Player/PlayerCont_BP.uasset",
+				"C:/Users/Celti/Documents/Unreal Projects/Crosswhite_207/Content/Player/ArenaMode.uasset",
+				"C:/Users/Celti/Documents/Unreal Projects/Crosswhite_207/Content/Map/ArenaMap.umap",
+				"C:/Users/Celti/Documents/Unreal Projects/Crosswhite_207/Content/Player/PlayerProj_BP.uasset",
+				"C:/Users/Celti/Documents/Unreal Projects/Crosswhite_207/Content/Player/Projectile_MAT.uasset"
 			]
 		}
 	]
