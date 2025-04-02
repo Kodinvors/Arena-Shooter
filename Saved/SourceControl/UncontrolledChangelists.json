@@ -21,12 +21,16 @@
 				"C:/Users/Celti/Documents/Unreal Projects/Crosswhite_207/Content/AI/AICont_BP.uasset",
 				"C:/Users/Celti/Documents/Unreal Projects/Crosswhite_207/Content/AI/AIProj_BP.uasset",
 				"C:/Users/Celti/Documents/Unreal Projects/Crosswhite_207/Content/AI/AIProjectile_MAT.uasset",
-				"C:/Users/Celti/Documents/Unreal Projects/Crosswhite_207/Content/AI/Focus.uasset",
 				"C:/Users/Celti/Documents/Unreal Projects/Crosswhite_207/Content/AI/Tasks/Focus.uasset",
 				"C:/Users/Celti/Documents/Unreal Projects/Crosswhite_207/Content/AI/Tasks/MovetoLocation.uasset",
 				"C:/Users/Celti/Documents/Unreal Projects/Crosswhite_207/Content/AI/Tasks/Shoot.uasset",
 				"C:/Users/Celti/Documents/Unreal Projects/Crosswhite_207/Content/AI/Tasks/StopShooting.uasset",
-				"C:/Users/Celti/Documents/Unreal Projects/Crosswhite_207/Content/Spawner/SpawnPoint.uasset"
+				"C:/Users/Celti/Documents/Unreal Projects/Crosswhite_207/Content/Spawner/SpawnPoint.uasset",
+				"C:/Users/Celti/Documents/Unreal Projects/Crosswhite_207/Content/Player/Player_W.uasset",
+				"C:/Users/Celti/Documents/Unreal Projects/Crosswhite_207/Content/AI/AI_W.uasset",
+				"C:/Users/Celti/Documents/Unreal Projects/Crosswhite_207/Content/Game/Score_W.uasset",
+				"C:/Users/Celti/Documents/Unreal Projects/Crosswhite_207/Content/Game/ArenaPlayers.uasset",
+				"C:/Users/Celti/Documents/Unreal Projects/Crosswhite_207/Content/AI/Focus.uasset"
 			]
 		}
 	]
